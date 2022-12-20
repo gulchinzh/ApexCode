@@ -16,4 +16,4 @@ public class Dinner {
     public void DinnerMethod() {
         System.debug('I ate '+  mealName + ' and drunk ' + numberOfJuice + ' glass of Juice' );
     }
-}
+} // ajhj
